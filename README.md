@@ -1,1 +1,1 @@
-# stdmgr
+# studentmgm
